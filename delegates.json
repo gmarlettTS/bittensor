@@ -74,6 +74,11 @@
         "url": "https://lucrosuspool.io/",
         "description": "Decentralized VC focused on the most thriving blockchain ideas. Join our pool to receive early entrance into promising projects!"
     },
+    "5CXRfP2ekFhe62r7q3vppRajJmGhTi7vwvb2yr79jveZ282w": {
+        "name": "Rizzo",
+        "url": "",
+        "description": "Validator built for performance and uptime. Data center housed, redundancies include dual physical failover servers (HA), power, internet, tested DR Plan."
+    },
     "5CAW5xpgPbxGUzkE3dgmM2XasaygpbvtSoTh3UeR8RMfHQZU": {
         "name": "Vogue τensor",
         "url": "https://voguetensor.webflow.io/",
